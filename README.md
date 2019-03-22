@@ -2,4 +2,4 @@
 Lenguaje de programación orientada a objetos
 
 
-Esta es la prueba para guardar los codigos
+INF237 LPOO / 2019-1  Mg. Braulio Murillo
