@@ -1,3 +1,4 @@
+#Ejercicio reto numero 2 de la clase LPOO 2019-1
 
 #include "pch.h"
 #include <iostream>
